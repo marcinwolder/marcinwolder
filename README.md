@@ -4,8 +4,12 @@
 - 🙋‍♂️ I’m currently working on [INFormator](https://github.com/marcinwolder/INFormator)
 - 🎓 I'm learning: <b>Docker, Kubernetes, NATS, GCP, Next.js, MongoDB</b>
 
+<br/>
+
+---
+
 <h3 align="left">Languages and Tools I use:</h3>
-<p align="center">
+<div align="center" style="background-color: #FFFFFF3; padding: 1em">
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -19,6 +23,9 @@
 <img src="https://github.com/mui/material-ui/raw/master/docs/public/static/logo.svg" alt="tailwind" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
-</p>
+</div>
+<br/>
+
+---
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcinwolder&" alt="marcinwolder" /></p>

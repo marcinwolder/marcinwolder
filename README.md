@@ -9,7 +9,7 @@
 ---
 
 <h3 align="left">Languages and Tools I use:</h3>
-<div align="center" style="background-color: #FFFFFF3; padding: 1em">
+<div align="center" style="background-color: #0F0F0F60; padding: 1em">
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>

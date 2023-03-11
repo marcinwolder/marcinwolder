@@ -9,7 +9,6 @@
 ---
 
 <h3 align="left">Languages and Tools I use:</h3>
-<div align="center" style="background-color: #0F0F0F60; padding: 1em">
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -23,7 +22,6 @@
 <img src="https://github.com/mui/material-ui/raw/master/docs/public/static/logo.svg" alt="tailwind" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
-</div>
 <br/>
 
 ---

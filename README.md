@@ -5,8 +5,6 @@
 - 🎓 I'm learning: <b>Docker, Kubernetes, NATS, GCP, Next.js, MongoDB</b>
 - 👷🏼‍♂️ I'm Working on [INFormator](https://github.com/marcinwolder/INFormator)
 
-<br/>
-
 ---
 
 <h3 align="left">Languages and Tools I use:</h3>
@@ -23,7 +21,6 @@
 <img src="https://github.com/mui/material-ui/raw/master/docs/public/static/logo.svg" alt="tailwind" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
-<br/>
 
 ---
 

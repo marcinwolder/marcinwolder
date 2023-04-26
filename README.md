@@ -1,8 +1,9 @@
 <h1 align="center">I'm Marcin 👨🏼‍💻</h1>
 <h3 align="center">Student and novice frontend developer</h3>
 
-- 🙋‍♂️ I’m currently working on [INFormator](https://github.com/marcinwolder/INFormator)
+- 🙋‍♂️ I’m currently writing my high school diploma
 - 🎓 I'm learning: <b>Docker, Kubernetes, NATS, GCP, Next.js, MongoDB</b>
+- 👷🏼‍♂️ I'm Working on [INFormator](https://github.com/marcinwolder/INFormator)
 
 <br/>
 

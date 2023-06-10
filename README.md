@@ -1,7 +1,7 @@
 <h1 align="center">I'm Marcin 👨🏼‍💻</h1>
 <h3 align="center">Student and novice frontend developer</h3>
 
-- 🙋‍♂️ I’m currently currently learning new technologies and looking for my place in web development
+- 🙋‍♂️ I’m currently learning new technologies and looking for my place in web development
 - 🎓 I'm learning: <b>React, Redux, TypeScript</b>
 - 🗓️ I want to learn: <b>Docker, Kubernetes, Next.js, MongoDB</b>
 - 👷🏼‍♂️ I'm Working on [INFormator](https://github.com/marcinwolder/INFormator)

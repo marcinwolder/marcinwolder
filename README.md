@@ -4,7 +4,7 @@
 - 🙋‍♂️ I’m currently learning new technologies and looking for my place in web development
 - 🎓 I'm learning: <b>React, Redux, TypeScript</b>
 - 🗓️ I want to learn: <b>Docker, Kubernetes, Next.js, MongoDB</b>
-- 👷🏼‍♂️ I'm Working on [INFormator](https://github.com/marcinwolder/INFormator)
+- 👷🏼‍♂️ I'm Working on [INFinity](https://github.com/marcinwolder/INFinity)
 
 ---
 

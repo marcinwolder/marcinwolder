@@ -1,6 +1,7 @@
 <h1 align="center">I'm Marcin 👨🏼‍💻</h1>
 <h3 align="center">Student and novice frontend developer</h3>
 
+- 🏫 I'm studying at AGH - Cracow
 - 🙋‍♂️ I’m currently learning new technologies and looking for my place in web development
 - 🎓 I'm learning: <b>React, Redux, TypeScript</b>
 - 🗓️ I want to learn: <b>Docker, Kubernetes, Next.js, MongoDB</b>

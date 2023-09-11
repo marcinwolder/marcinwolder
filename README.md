@@ -6,8 +6,8 @@
 - 🗓️ I want to learn: <b>Docker, Kubernetes, Next.js, MongoDB</b>
 - 👷🏼‍♂️ I'm Working on [INFinity](https://github.com/marcinwolder/INFinity)
 - 🏫 I'm studying <i><u>Artificial Intelligence and Machine Learning</u></i> at <b>AGH</b> - Cracow
-  <br><p align="center"><img align="center" src="./img/AGH.png" alt="logo" width="250"/></p>
+  <p align="center"><img style="background: #0d1117;" align="center" src="./img/AGH.png" alt="logo" width="250"/></p>
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcinwolder&" alt="marcinwolder" /></p>
+  <p align="center"><img style="background: #0d1117;" align="center" src="./img/stack.png" alt="logo" width="460em"/></p>

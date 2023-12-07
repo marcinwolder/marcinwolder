@@ -14,4 +14,4 @@
 
 ### Narzędzia Informatyczne:
 - Fork to github repo: [here](https://github.com/marcinwolder/AutoShot)
-- Linkt to paperswithcode: [here](https://paperswithcode.com/paper/autoshot-a-short-video-dataset-and-state-of-1)
+- Link to paperswithcode: [here](https://paperswithcode.com/paper/autoshot-a-short-video-dataset-and-state-of-1)

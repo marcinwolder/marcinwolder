@@ -9,5 +9,3 @@
 ---
 
   <p align="center"><img style="background: #0d1117;" align="center" src="./img/stack.png" alt="stack" /></p>
-
----

@@ -11,7 +11,3 @@
   <p align="center"><img style="background: #0d1117;" align="center" src="./img/stack.png" alt="stack" /></p>
 
 ---
-
-### Narzędzia Informatyczne:
-- Fork to github repo: [here](https://github.com/marcinwolder/AutoShot)
-- Link to paperswithcode: [here](https://paperswithcode.com/paper/autoshot-a-short-video-dataset-and-state-of-1)

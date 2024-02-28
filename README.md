@@ -2,10 +2,10 @@
 
 - 🏫 I'm studying <i><u>Computer Science and Intelligent Systems</u></i> at <b>AGH</b> - Cracow
 - 💼 I’m a *Data Engineer Intern* at **Pegasystems**
-- 👷🏼‍♂️ I'm working on project https://matura-infinity.vercel.app
+- 👷🏼 I'm working on project https://matura-infinity.vercel.app
 - 📝 Check out my resume on https://marcinwolder.github.io 
-  <p align="center"><img style="background: #0d1117;" align="center" src="./img/AGH.png" alt="logo" width="250"/><img style="background: #0d1117;" align="center" src="./img/PEGA_BIG.D.png" alt="logo" width="250"/></p>
+  <p align="center"><img style="background: #0d1117;" align="center" src="img/AGH.png" alt="logo" width="250"/><img style="background: #0d1117;" align="center" src="img/PEGA_BIG.D.png" alt="logo" width="250"/></p>
 
 ---
 
-  <p align="center"><img style="background: #0d1117;" align="center" src="./img/stack.png" alt="stack" /></p>
+  <p align="center"><img style="background: #0d1117;" align="center" src="img/stack.png" alt="stack" /></p>
